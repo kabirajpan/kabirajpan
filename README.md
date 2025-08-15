@@ -2,23 +2,26 @@
 <h1 align="center">Hi, I'm Kabiraj Pan 👋</h1>
 <p align="center">
   <a href="https://github.com/kabirajpan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+%7C+AI+%7C+Computer+Vision;MERN+%7C+C%2B%2B+%7C+Rust+Learner;Building+Fast+and+Lightweight+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=AI+%7C+Computer+Vision+%7C+MERN+%7C+C%2B%2B+%7C+Rust;Building+Fast+and+Lightweight+Solutions;Always+Learning%2C+Always+Improving" alt="Typing SVG" />
   </a>
 </p>
 
+<!-- BADGES -->
 <p align="center">
   <a href="mailto:kabirajpan2@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/kabirajpan"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/YOUR-LINK"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=kabirajpan&label=Profile+Views&color=blue&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🧠 Exploring **AI, computer vision, and edge-friendly ML models**  
-- 💻 Full-stack in **MERN**, strong in **C++**, currently learning **Rust**  
-- 🛠 Linux + Neovim enthusiast; I automate repetitive work  
-- 🎯 I prefer **clean, maintainable, and reproducible** projects  
+- 🧠 Exploring **AI, Computer Vision, and Edge ML**  
+- 💻 Full-stack with **MERN**, strong in **C++**, currently learning **Rust**  
+- 🛠 Linux + Neovim enthusiast  
+- 🎯 Aim for **clean, reliable, and reproducible** code  
 
 ---
 
