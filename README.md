@@ -18,8 +18,8 @@
 ---
 
 ## 🚀 About Me
-- 🧠 Exploring **AI, Computer Vision, and Edge ML**  
-- 💻 Full-stack with **MERN**, strong in **C++**, currently learning **Rust**  
+- 🧠 Exploring ** AI, Computer Vision, and Edge ML **  
+- 💻 Full-stack with **MERN**, strong in **C++**, currently learning **Rust **  
 - 🛠 Linux + Neovim enthusiast  
 - 🎯 Aim for **clean, reliable, and reproducible** code  
 
