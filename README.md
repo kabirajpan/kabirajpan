@@ -1,81 +1,86 @@
-<!-- HEADER -->
-<h1 align="center">Hi, I'm Kabiraj Pan 👋</h1>
+<h1 align="center">Hi there! 👋 I'm Kabiraj Pan </h1>
 <p align="center">
-  <a href="https://github.com/kabirajpan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=AI+%7C+Computer+Vision+%7C+MERN+%7C+C%2B%2B+%7C+Rust;Building+Fast+and+Lightweight+Solutions;Always+Learning%2C+Always+Improving" alt="Typing SVG" />
+  🚀 Full Stack MERN Developer | 💡 Problem Solver | 🎨 UI/UX Enthusiast
+</p>
+
+---
+
+## 🔥 About Me  
+- 🎯 **Full Stack Developer** specializing in the **MERN Stack (MongoDB, Express.js, React, Node.js)**  
+- ⚡ I love **building scalable web applications and optimizing performance**  
+- 📚 Currently learning **TypeScript & AI integrations**  
+- 💬 Ask me about **JavaScript, MERN Stack, or UI Design**  
+- 🌍 Open to collaborations on **exciting web projects**  
+
+---
+
+## 🔨 Currently Working On  
+- 🛠 Developing an **AI-powered tool** for automation.  
+- 🚀 Improving my **Next.js & TypeScript** skills.  
+- 📖 Exploring **Machine Learning & AI integrations** for web apps.  
+
+---
+
+## 💻 Tech Stack  
+
+<p align="center">
+  <!-- MERN Stack -->
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
+  <br />
+  
+  <!-- Other Technologies -->
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+### 🔹 [MERN Chat Application](#)  
+🛠 **Tech:** WebSockets, React, Node.js, MongoDB  
+🔹 Real-time chat with **authentication & media sharing**  
+
+### 🔹 [Resume Builder App](#)  
+🛠 **Tech:** React, Firebase, Node.js  
+🔹 Drag-and-drop **ATS-friendly** resume generator  
+
+### 🔹 [E-Commerce Platform](#)  
+🛠 **Tech:** MERN Stack, Payment Gateway, Admin Dashboard  
+🔹 Scalable e-commerce app with **product & order management**  
+
+
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kabirajpan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabirajpan&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/kabiraj-pan-2492b1311" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/kabirajpan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:kabirajpan2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<!-- BADGES -->
-<p align="center">
-  <a href="mailto:kabirajpan2@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/kabirajpan"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/YOUR-LINK"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=kabirajpan&label=Profile+Views&color=blue&style=for-the-badge" />
-</p>
-
----
-
-## 🚀 About Me
-- 🧠 Exploring ** AI, Computer Vision, and Edge ML **  
-- 💻 Full-stack with **MERN**, strong in **C++**, currently learning **Rust **  
-- 🛠 Linux + Neovim enthusiast  
-- 🎯 Aim for **clean, reliable, and reproducible** code  
-
----
-
-## 🧩 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,rust" />
-  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,docker,linux,neovim,git" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-| ------- | ----------- | ---- |
-| 🥼 **Apple Leaf Disease Detection** | MobileNetV2 + Class-imbalance training, TFLite-ready | TensorFlow, Python, OpenCV |
-| 📥 **YouTube Playlist Downloader** | Multithreaded download + metadata fetcher | React, C++ (Crow) |
-| 📄 **Resume Builder** | Drag/zoom preview, export to PDF, undo/redo | React, Redux |
-| 🧪 **R&D Models** | Lesion-aware pipelines, focal loss, EfficientNet/ResNet comparisons | PyTorch, TensorFlow |
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kabirajpan&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirajpan&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=kabirajpan&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kabirajpan&theme=onedark&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 📂 Code Snippets
-<details>
-<summary><b>🛠 Kabir Search Input Logic (React)</b></summary>
-
-```javascript
-const toggleSearch = () => {
-  if (searchTerm.trim()) {
-    alert(`Searching for: ${searchTerm}`);
-    setShowSearch(true);
-  } else {
-    setShowSearch((prev) => !prev);
-    setSearchTerm("");
-  }
-};
