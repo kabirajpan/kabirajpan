@@ -1,11 +1,11 @@
 # Kabiraj Pan
 
-**Indie Developer | M.Tech Computer Science | Full Stack & AI Researcher**
+**Indie Developer | Computer Science | Full Stack & AI Researcher**
 
 ---
 
 ### About Me
-I’m an indie developer and M.Tech Computer Science student focused on building secure, optimized, and user-centered software.  
+I’m an indie developer and Computer Science student focused on building secure, optimized, and user-centered software.  
 My background in graphic design and marketing taught me to value clean design and intuitive experiences, which now influence how I build modern applications.
 
 I work across full-stack development and AI research, creating efficient systems that balance performance, simplicity, and usability.
@@ -30,6 +30,6 @@ I work across full-stack development and AI research, creating efficient systems
 
 ### Contact
 📫 **Email:** kabirajpan2@gmail.com  
-🌐 **Portfolio:** [kabirajpan.is-a.dev](https://kabirajpan.is-a.dev) *(if you’d like, I can add this once it’s live)*  
+🌐 **Portfolio:** [kabirajpan.is-a.dev](https://kabirajpan.is-a.dev)
 💼 **LinkedIn:** [linkedin.com/in/kabirajpan](#)  
 🐦 **GitHub:** [github.com/kabirajpan](https://github.com/kabirajpan)
