@@ -4,7 +4,6 @@
 Founder of **[Zenthra Labs](https://zenthralabs.dev)** • Building high-performance native software & bio-inspired systems.
 
 [![Website](https://img.shields.io/badge/Website-kabirajpan.is--a.dev-black?style=flat-square&logo=google-chrome&logoColor=white)](https://kabirajpan.is-a.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-kabirajpan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kabirajpan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kabirajpan)
 [![Email](https://img.shields.io/badge/Email-kabirajpan2@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kabirajpan2@gmail.com)
 
@@ -42,6 +41,5 @@ Founder of **[Zenthra Labs](https://zenthralabs.dev)** • Building high-perform
 
 - 🌐 **Portfolio:** [kabirajpan.is-a.dev](https://kabirajpan.is-a.dev)
 - 🏢 **Labs:** [zenthralabs.dev](https://zenthralabs.dev)
-- 🐙 **GitHub:** [@kabirajpan](https://github.com/kabirajpan)
 - 💼 **LinkedIn:** [kabirajpan](https://linkedin.com/in/kabirajpan)
 - ✉️ **Email:** [kabirajpan2@gmail.com](mailto:kabirajpan2@gmail.com)
