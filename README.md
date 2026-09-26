@@ -4,6 +4,7 @@
 Founder of **[Zenthra Labs](https://zenthralabs.dev)** • Building high-performance native software & bio-inspired systems.
 
 [![Website](https://img.shields.io/badge/Website-kabirajpan.is--a.dev-black?style=flat-square&logo=google-chrome&logoColor=white)](https://kabirajpan.is-a.dev)
+[![Zenthra Labs](https://img.shields.io/badge/Zenthra_Labs-@zenthralabs-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/zenthralabs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kabirajpan)
 [![Email](https://img.shields.io/badge/Email-kabirajpan2@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kabirajpan2@gmail.com)
 
@@ -23,7 +24,7 @@ Founder of **[Zenthra Labs](https://zenthralabs.dev)** • Building high-perform
 - **[After Motion](https://play.google.com/store/apps/details?id=com.aftermotion.app&pli=1)** `[Google Play]`  
   Mobile video editor and motion graphics app built with Kotlin Multiplatform (KMP), native Android, and a high-performance native core written in Rust.
 
-- **[Zenthra Labs](https://zenthralabs.dev)**  
+- **[Zenthra Labs](https://zenthralabs.dev)** `[@zenthralabs]`  
   Developer hub and ecosystem platform with an async Rust backend and edge-rendered web frontend.
 
 ---
@@ -40,6 +41,6 @@ Founder of **[Zenthra Labs](https://zenthralabs.dev)** • Building high-perform
 ### 📬 Connect With Me
 
 - 🌐 **Portfolio:** [kabirajpan.is-a.dev](https://kabirajpan.is-a.dev)
-- 🏢 **Labs:** [zenthralabs.dev](https://zenthralabs.dev)
+- 🏢 **Zenthra Labs:** [@zenthralabs](https://github.com/zenthralabs) • [zenthralabs.dev](https://zenthralabs.dev)
 - 💼 **LinkedIn:** [kabirajpan](https://linkedin.com/in/kabirajpan)
 - ✉️ **Email:** [kabirajpan2@gmail.com](mailto:kabirajpan2@gmail.com)
