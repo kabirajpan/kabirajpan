@@ -1,4 +1,4 @@
-# Hi, I'm Kabiraj Pan 👋
+## Hi, I'm Kabiraj Pan 👋
 
 **Indie Developer & Systems Architect • Rust, WebGPU, and AI**  
 Founder of **[Zenthra Labs](https://zenthralabs.dev)** • Building high-performance native software & bio-inspired systems.
